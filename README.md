@@ -5,7 +5,7 @@
 _About me_
 * :star::blush:  **[Twiter](https://twitter.com/stiven_sibaja)**
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=camilogonzalez7424&label=Profile%20views&color=0e75b6&style=flat" alt="Johan794" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Johan794&label=Profile%20views&color=0e75b6&style=flat" alt="Johan794" /> </p>
 
 
 ### :zap: Github Stats
