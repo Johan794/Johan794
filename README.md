@@ -1,23 +1,36 @@
-![](https://github.com/hebertdev1/hebertdev1/blob/master/javascript.gif)
 # Welcome to my repositories👋
+![](https://github.com/hebertdev1/hebertdev1/blob/master/javascript.gif)
 ## Get ready and let's do it
 ### Software System engineering Student
-_About me_
-* :star::blush:  **[Twiter](https://twitter.com/stiven_sibaja)**
+<img align="right" src = "https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="500px" height="500px">
 
+_About me_
+
+:star::blush:  **[Twiter](https://twitter.com/stiven_sibaja)**
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Johan794&label=Profile%20views&color=0e75b6&style=flat" alt="Johan794" /> </p>
+
+
+
+- 🔭 I’m currently working on **my self**
+
+- 🌱 I’m currently learning **frontend**
+
+- 👯 I’m looking to collaborate on **with other Developers**
+
+- 💬 Ask me about **anything, lest's have a nice talk!**
+
+- 📫 How to reach me **johan.ricardo1104@gmail.com**
+
 
 
 ### :zap: Github Stats
 
-<img align="left" src="https://github-readme-stats-eight-theta.vercel.app/api?username=camilogonzalez7424&show_icons=true&theme=react&include_all_commits=true&count_private=true" alt="camilogonzalez7424's Github Stats" width="60%">
-  
-<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=camilogonzalez7424&layout=compact&langs_count=8&theme=react" width="37%" alt="camilogonzalez7424's Top Languages">
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Johan794&layout=compact&langs_count=8&theme=react" width="37%" alt="Johan794's Top Languages">
 
-<br>
-<p align="left">
-<a href="https://twitter.com/camilogonzlezv3" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="camilogonzlezv3" height="30" width="40" /></a>
-</p>
+
+<img align="left" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Johan794&show_icons=true&theme=react&include_all_commits=true&count_private=true" alt="camilogonzalez7424's Github Stats" width="60%">
+ 
+ <br>
 
 <h3 align="left">Languages and Tools:<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </h3>
 <p align="left"> 
