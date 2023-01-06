@@ -20,7 +20,7 @@ _About me_
 
 - 🌱 I’m currently learning **frontend**
 
-- 👯 I’m looking to collaborate on **with other Developers**
+- 👯 I’m looking to collaborate **with other Developers**
 
 - 💬 Ask me about **anything, lest's have a nice talk!**
 
