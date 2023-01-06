@@ -37,7 +37,7 @@ _About me_
 ### :zap: Github Stats
 
 <p align="center">
-  <a href="https://skillicons.dev">
+  <a>
      <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Johan794&layout=compact&langs_count=8&theme=react" width="37%"        alt="Johan794's Top Languages">   
    
    <img align="left" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Johan794&show_icons=true&theme=react&include_all_commits=true&count_private=true" alt="Johan794's Github Stats" width="60%">
