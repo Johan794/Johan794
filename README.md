@@ -1,24 +1,27 @@
 
-
-# Welcome to my repositories👋
-
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Condensed&size=50&pause=1000&color=53B14F&center=true&vCenter=true&width=600&height=90&lines=Welcome+to+my+repositories+;I+am+Johan+%F0%9F%A5%B6" alt="Header" />
+  </a>
+</h1>
 
 ![](https://github.com/hebertdev1/hebertdev1/blob/master/javascript.gif)
-## Here's where the magic happens :cold_face: 
-## Get ready and let's do it
+
+
 ### Software System engineering Student
 <img align="right" src = "https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="500px" height="500px">
 
 _About me_
 
-:star::blush:  **[Twiter](https://twitter.com/stiven_sibaja)**
+:star::blush:     **[Twiter](https://twitter.com/stiven_sibaja)**
+:star::cold_face: **[LinkedIn](https://www.linkedin.com/in/johan-stiven-ricardo-sibaja-b35a7720b)**
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Johan794&label=Profile%20views&color=0e75b6&style=flat" alt="Johan794" /> </p>
 
 
 
 - 🔭 I’m currently working on **my self**
 
-- 🌱 I’m currently learning **frontend**
+- 🌱 I’m currently learning **DevOps**
 
 - 👯 I’m looking to collaborate **with other Developers**
 
