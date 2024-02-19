@@ -32,7 +32,7 @@ _About me_
 
 <h3>Languages and Tools:<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </h3>
 
-[![My Skills](https://skillicons.dev/icons?i=kotlin,java,py,js,scala,nodejs,html,css,materialui,react,vue,nextjs,firebase,mongodb,mysql,postgres,androidstudio,idea,jenkins,linux,spring,vite,visualstudio,vscode,bash&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=kotlin,java,py,js,scala,nodejs,html,css,materialui,react,vue,nextjs,firebase,mongodb,mysql,postgres,androidstudio,idea,jenkins,linux,spring,vite,visualstudio,vscode,bash,docker,githubactions,express,kubernetes,maven,terraform&perline=4)](https://skillicons.dev)
 
 <br>
 
