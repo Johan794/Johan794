@@ -8,7 +8,8 @@
 ![](https://github.com/hebertdev1/hebertdev1/blob/master/javascript.gif)
 
 
-### Software Systems engineering Student
+### Software Systems engineer
+
 <img align="right" src = "https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="500px" height="500px">
 
 _About me_
